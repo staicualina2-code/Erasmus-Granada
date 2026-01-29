@@ -1,0 +1,84 @@
+/* Reset*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 30px;
+    font-family: monospace;
+}
+
+h1,
+h2{
+    font-size: 70px;
+    color: red;
+}
+
+li{
+    background-color: aqua;
+    color: darkgoldenrod;
+    font-size: 45px;
+}
+header {
+    display: 50px;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+    color: cadetblue;
+}
+
+h4{
+    background-color: cadetblue;
+    color: chartreuse;
+    font-size: 38px;
+}
+.fond-de-ten {
+    font-size: 0;
+    color: black;
+    background-color: aquamarine;
+}
+
+.pudra{
+    font-size: 20px;
+    color: chocolate;
+    background-color: azure;
+    padding: 30px;
+}
+.container p {
+    background-color: blue;
+}
+
+.rimel{
+    color: violet;
+    background-color: crimson;
+    padding: 10px;
+}
+
+.pensule {
+    color: royalblue;
+    background-color: brown;
+    font-size: 50px;
+}
+
+div{
+    width: 100%;
+    background-color: black;
+    color: chartreuse;
+    background-color: beige;
+}
+
+input{
+    margin-top: 15px;
+    border: 5px solid wheat;
+    border-radius: 10px;
+}
+
+.container {
+    color: beige;
+}
+
+p {
+    color: black;
+    background-color: blueviolet;
+}
